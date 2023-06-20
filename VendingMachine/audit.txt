@@ -1,0 +1,7 @@
+2023-06-20T14:42:38.153093600 :: Item CocaCola has been sold. Number in inventory: 12
+2023-06-20T14:53:38.372761400 :: Item Snickers Bar has been sold. Number in inventory: 10
+2023-06-20T14:53:43.620998500 :: Item Chewing Gum has been sold. Number in inventory: 10
+2023-06-20T14:53:48.256560900 :: Item Lindt has been sold. Number in inventory: 95
+2023-06-20T14:53:53.069241400 :: Item CocaCola has been sold. Number in inventory: 11
+2023-06-20T14:53:59.008971600 :: Item Sunkist has been sold. Number in inventory: 15
+2023-06-20T14:54:02.745969600 :: Item Fanta has been sold. Number in inventory: 5

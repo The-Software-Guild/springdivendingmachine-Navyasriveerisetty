@@ -1,0 +1,10 @@
+Snickers Bar,0.99,10
+Twist,2.49,0
+Chewing Gum,0.49,10
+Lindt,3.49,95
+CocaCola,1.99,11
+Kettle,2.99,-100
+Sunkist,5.99,15
+Fanta,1.99,5
+DairyMilkChocolate,1.98,7
+Boba tea,5.95,3
