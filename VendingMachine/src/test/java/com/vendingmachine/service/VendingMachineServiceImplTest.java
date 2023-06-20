@@ -69,8 +69,8 @@ public class VendingMachineServiceImplTest
             testClone.setCost(new BigDecimal("2.99").setScale(2, RoundingMode.FLOOR));
             testClone.setNumInventoryItems(10);
 
-        Item shouldBeCheetos = service.getItem("KettleChips");
-        assertEquals(testClone, shouldBeCheetos,"Item should be KettleChips." );
+        Item shouldBeKettleChips = service.getItem("KettleChips");
+        assertEquals(testClone, shouldBeKettleChips,"Item should be KettleChips." );
 
         Item shouldBeNull = service.getItem("fanta");
         assertNull(shouldBeNull, "Getting 'fanta' should be null");
